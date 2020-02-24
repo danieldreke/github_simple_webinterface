@@ -13,3 +13,9 @@
 - Via API possible?
     - Research read
     - Research write
+
+## Research
+- [codemirror.net](https://codemirror.net/) .. versatile text editor implemented in JavaScript for the browser
+- Hide elements, change CSS, change text via browser plugin
+  - https://alternativeto.net/software/stylus--user-styles-manager/
+  - https://alternativeto.net/software/openusercss/
