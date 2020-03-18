@@ -16,8 +16,9 @@
 
 ## Research
 - Existing solutions / Github Apps:
-  - prose.io
+  - [prose.io](https://prose.io/) looks pormising, could be used as a start
     - \+ files can be edited
+    - \- no preview of images
     - \- images cannot be renamed
     - \- folders cannot be created
   - siteleaf.com
