@@ -17,6 +17,7 @@
 ## Research
 - Existing solutions / Github Apps:
   - [prose.io](https://prose.io/) looks pormising, could be used as a start
+    - https://github.com/prose/prose
     - \+ files can be edited
     - \- no preview of images
     - \- images cannot be renamed
