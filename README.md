@@ -1,6 +1,7 @@
 ## Missing in GitHub Webinterface
 
 - Move image to another directory
+- Rename image
 - Create directory
     - Workaroud: Create temporary empty file
 - Rename directory
@@ -16,7 +17,7 @@
 
 ## Research
 - Existing solutions / Github Apps:
-  - [prose.io](https://prose.io/) looks pormising, could be used as a start
+  - [prose.io](https://prose.io/) looks promising, could be used as a start
     - https://github.com/prose/prose
     - \+ files can be edited
     - \- no preview of images
